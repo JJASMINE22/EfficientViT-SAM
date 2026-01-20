@@ -51,7 +51,7 @@ EfficientViT-SAM/
 ### 2. **先进注意力机制**
 
 - 支持多种注意力类型：
-    - [Flash Attention](file://D:\gitlab\pythonProject\EfficientViT-SAM\modules\attentions.py#L9-L74) - 高效内存访问
+    - [Flash Attention](https://github.com/Dao-AILab/flash-attention) - 高效内存访问
     - `SDPA Attention` - 标准缩放点积注意
     - `Eager Attention` - 传统注意力实现
 - 自定义模块支持降采样优化
@@ -75,3 +75,6 @@ EfficientViT-SAM/
 - **高速度**: 推理速度提升 3x
 - **易部署**: 模块化设计便于集成
 - **跨平台**: 支持 Windows/Linux 环境
+
+
+[![Watch the video](https://github.com/JJASMINE22/EfficientViT-SAM/raw/refs/heads/main/sample/img.png)](https://github.com/JJASMINE22/EfficientViT-SAM/raw/refs/heads/main/sample/demo.mp4)
