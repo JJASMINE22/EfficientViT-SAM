@@ -77,4 +77,4 @@ EfficientViT-SAM/
 - **跨平台**: 支持 Windows/Linux 环境
 
 
-[![Watch the video](https://github.com/JJASMINE22/EfficientViT-SAM/raw/refs/heads/main/sample/img.png)](https://github.com/JJASMINE22/EfficientViT-SAM/raw/refs/heads/main/sample/demo.mp4)
+[![Watch the video]()
