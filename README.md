@@ -77,6 +77,6 @@ EfficientViT-SAM/
 - **跨平台**: 支持 Windows/Linux 环境
 
 
-[![Watch the video(<img width="673" height="449" alt="a3d3ac5a25398fe5c6a9e70b41c2ce1" src="https://github.com/user-attachments/assets/1f429d50-592f-4f38-8b86-20e3b2a1491a" />)](https://github.com/user-attachments/assets/9744d80e-5a8a-4c48-8b89-f3753b00d0f2)
+[![Watch the video](<img width="673" height="449" alt="a3d3ac5a25398fe5c6a9e70b41c2ce1" src="https://github.com/user-attachments/assets/1f429d50-592f-4f38-8b86-20e3b2a1491a" />)](https://github.com/user-attachments/assets/9744d80e-5a8a-4c48-8b89-f3753b00d0f2)
 
 
